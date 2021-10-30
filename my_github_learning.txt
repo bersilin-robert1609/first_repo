@@ -1,2 +1,4 @@
-second change
-third change
+This file is a track of my github learning log, a self maintained one.
+
+29/10/21 I first installed git and learned about version control.
+30/10/21 Configured my vscode with github and created this repo and pushed my first files into it.
