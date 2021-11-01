@@ -3,3 +3,4 @@ This file is a track of my github learning log, a self maintained one.
 29/10/21    I first installed git and learned about version control.
 30/10/21    Configured my vscode with github and created this repo and pushed my first files into it.
             First pull, did on my own ^w^. Came to know how to update my repository for new changes by other contributors.
+01/11/21    Learning about git and github from Gwen in freeCodeCamp.org.
